@@ -1,0 +1,27 @@
+# For more about ignoring files, see:
+# https://help.github.com/articles/ignoring-files/
+# https://www.gitignore.io/
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Production
+/dist
+
+# Caches
+.cache
+.stylelintcache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode
+*.sublime-*
+
+# Miscellaneous
+.DS_Store

@@ -1,0 +1,7 @@
+# node_modules are ignored by default
+
+# Development
+/public
+
+# Production
+/dist
